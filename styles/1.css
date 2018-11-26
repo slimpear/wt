@@ -31,7 +31,10 @@ a:hover {
 	text-align: right;
 }
 
-header, nav, main, footer {
+.container > header, 
+.container > nav, 
+.container > main, 
+.container > footer {
 	padding: 1em;
 }
 
@@ -42,3 +45,4 @@ header, nav, main, footer {
 img {
 	width: 100%;
 }
+
